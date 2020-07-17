@@ -1,0 +1,104 @@
+body{margin-bottom: 80px; background-color: }
+.logo{height: 30px;}
+.page-header{margin-top: 0;}
+.panel-body{padding-top: 0;}
+.featuredImg{width: 100%; margin-bottom: 15px;}
+.jumbotron {color: white; background-image: url(https://i.pinimg.com/originals/26/3a/fb/263afbc4abe9f308f761e804631b3af3.jpg); 
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-height: 600px;
+  color: #003087;
+}
+
+.jumbotron h1{-webkit-text-stroke: 1px #003087;
+   color: white;
+   text-shadow:
+       2px 2px 0 #000,
+     -1px -1px 0 #000,  
+      0px -2px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;}
+
+.jumbotron h4{-webkit-text-stroke: .5px #003087;
+   color: white;
+   text-shadow:
+       2px 2px 0 #000,
+     -1px -1px 0 #000,  
+      0px -2px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;}
+
+body {color: #003087;}
+
+.video{
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+.list-group-item {background-color: silver;}
+
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #dd4b39;
+  color: white;
+}
+.article{color: black; font-family: Palatino; font-size: large;}
+.navbar{background-color: #01183d;}
+
+
+
+.embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
+}
+.embed-responsive-4by3 {
+  padding-bottom: 75%;
+}
+
+
+.responsive {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    padding-top: 10px;
+}
